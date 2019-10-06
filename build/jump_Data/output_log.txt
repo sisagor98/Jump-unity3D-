@@ -1,0 +1,49 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.5063
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\gameclass\Jump Game\build\jump_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\gameclass\Jump Game\build\jump_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\gameclass\Jump Game\build\jump_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.624 seconds
+Platform assembly: E:\gameclass\Jump Game\build\jump_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\gameclass\Jump Game\build\jump_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.377300 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 696c -> priority: 1 
+  Thread -> id: 5038 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.358800 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1946.
+Total: 0.857600 ms (FindLiveObjects: 0.161500 ms CreateObjectMapping: 0.079700 ms MarkObjects: 0.439300 ms  DeleteObjects: 0.175500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.735500 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 1.082500 ms (FindLiveObjects: 0.055700 ms CreateObjectMapping: 0.068600 ms MarkObjects: 0.602500 ms  DeleteObjects: 0.353100 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.734800 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 410.
+Total: 0.489800 ms (FindLiveObjects: 0.043700 ms CreateObjectMapping: 0.036900 ms MarkObjects: 0.347600 ms  DeleteObjects: 0.058100 ms)
+

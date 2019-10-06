@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 288af25dbc6ac674b8dce0651019636e
+timeCreated: 1516202755
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Smudger LET
+  fontNames:
+  - Smudger LET
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
